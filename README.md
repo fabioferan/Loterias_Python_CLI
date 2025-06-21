@@ -1,3 +1,3 @@
-# Loterias_Python
+# Loterias (Python)
 
 Projeto usando os dados das Loterias CAIXA para estudo de Python.
